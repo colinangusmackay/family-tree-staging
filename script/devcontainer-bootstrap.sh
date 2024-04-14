@@ -15,12 +15,16 @@ echo.
 echo Gem Version:
 gem --version
 
-# git config --global --add safe.directory /workspaces/$REPO_NAME
+echo.
+echo Jekyll version:
+jekyll --version
+
+echo.
+echo Bundle version:
+bundle --version
+
+git config --global --add safe.directory /workspaces/$REPO_NAME
 
 # gem install bundler
-# bundle install --gemfile=/workspaces/$REPO_NAME/docs/Gemfile
-
-
-
-# jekyll --version
-# bundle --version
+bundle install --gemfile=/workspaces/$REPO_NAME/Gemfile
+bundle lock --add-platform x86_64-linux
