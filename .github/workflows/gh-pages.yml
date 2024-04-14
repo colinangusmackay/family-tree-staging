@@ -28,13 +28,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set Time Zone to Europe/London
-        shell: pwsh
+        shell: bash
         run: sudo timedatectl set-timezone "Europe/London"
 
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
+      - name: "Fix UTF8 BOM issue"
+        shell: pwsh
+        run: ./script/Fix-BOM.ps1
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
