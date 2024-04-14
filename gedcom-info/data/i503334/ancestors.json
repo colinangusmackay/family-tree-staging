@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i503334",
+  "Name": "Annie Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1865",
+  "DateOfDeath": "1/May/1942",
+  "Parents": [
+    {
+      "Id": "i56321492",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i31091676",
+      "Name": "Jessie Grant",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

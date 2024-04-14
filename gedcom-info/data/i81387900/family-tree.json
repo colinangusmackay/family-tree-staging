@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i81387900",
+    "Name": "Alexander Ross",
+    "Gender": "Male",
+    "DateOfBirth": "about 1814",
+    "DateOfDeath": "20/Jan/1896"
+  },
+  "Parents": [
+    {
+      "Id": "i39617772",
+      "Name": "William Ross",
+      "Gender": "Male",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i14483646",
+      "Name": "Janet MacLeod",
+      "Gender": "Female",
+      "DateOfBirth": "before 1798",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i81387900",
+      "Name": "Alexander Ross",
+      "Gender": "Male",
+      "DateOfBirth": "about 1814",
+      "DateOfDeath": "20/Jan/1896",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i14483646",
+          "i39617772"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i78930004",
+      "Name": "Marion Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1819",
+      "DateOfDeath": "30/Dec/1909",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i60546968",
+      "Name": "Jessie Ross",
+      "Gender": "Female",
+      "DateOfBirth": "bet' 1840 and 1847",
+      "DateOfDeath": "13/Jan/1918",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i81387900",
+        "i78930004"
+      ]
+    }
+  ]
+}

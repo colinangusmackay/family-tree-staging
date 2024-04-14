@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i5211114",
+  "Name": "John Paton",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1894",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i96104748",
+      "Name": "Janet McFarlane",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i43171135",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

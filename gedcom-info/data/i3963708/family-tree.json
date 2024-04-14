@@ -1,0 +1,81 @@
+﻿{
+  "Subject": {
+    "Id": "i3963708",
+    "Name": "Alastair McDonald Gibson",
+    "Gender": "Male",
+    "DateOfBirth": "19/Jan/1914",
+    "DateOfDeath": "1978"
+  },
+  "Parents": [
+    {
+      "Id": "i21968540",
+      "Name": "Alexander Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1939",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i71295041",
+      "Name": "Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i3963708",
+      "Name": "Alastair McDonald Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i21968540",
+          "i71295041"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i24380064",
+      "Name": "Margaret McKenzie McIver",
+      "Gender": "Female",
+      "DateOfBirth": "29/Sep/1917",
+      "DateOfDeath": "12/Sep/2015",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1/Sep/1939",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i11866224",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    },
+    {
+      "Id": "i86606770",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    }
+  ]
+}

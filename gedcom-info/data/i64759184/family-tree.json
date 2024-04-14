@@ -1,0 +1,45 @@
+﻿{
+  "Subject": {
+    "Id": "i64759184",
+    "Name": "Donald Cumming",
+    "Gender": "Male",
+    "DateOfBirth": "4/May/1903",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i90082380",
+      "Name": "William Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "27/Feb/1865",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i76315420",
+      "Name": "Jessie or Janet Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "1866",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i64759184",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "DateOfBirth": "4/May/1903",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i76315420",
+          "i90082380"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [],
+  "Children": []
+}

@@ -1,0 +1,143 @@
+﻿{
+  "Subject": {
+    "Id": "i21721539",
+    "Name": "Malcolm DeWitt Roberts",
+    "Gender": "Male",
+    "DateOfBirth": "30/Sep/1905",
+    "DateOfDeath": "6/May/1990"
+  },
+  "Parents": [
+    {
+      "Id": "i36552681",
+      "Name": "Frederick B Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "about 1868",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i53003230",
+      "Name": "Mae Farnham",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i38158777",
+      "Name": "Donald F Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "about 1898",
+      "DateOfDeath": "before 1990",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
+      ]
+    },
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
+      ]
+    },
+    {
+      "Id": "i46105652",
+      "Name": "Janet Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "about 1913",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i36552681",
+          "i53003230"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "1927",
+      "DateOfDivorce": ""
+    },
+    {
+      "Id": "i33863084",
+      "Name": "Virginia C Simonet",
+      "Gender": "Female",
+      "DateOfBirth": "14/Apr/1918",
+      "DateOfDeath": "5/Mar/1998",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "30/Sep/1972",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44331192",
+      "Name": "Mary Beth Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "1/Nov/1930",
+      "DateOfDeath": "6/Feb/2014",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i38836920",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1936",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "Sandra Jane Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "10/Nov/1937",
+      "DateOfDeath": "26/Nov/2019",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    }
+  ]
+}

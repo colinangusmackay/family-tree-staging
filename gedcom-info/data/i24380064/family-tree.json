@@ -1,0 +1,137 @@
+﻿{
+  "Subject": {
+    "Id": "i24380064",
+    "Name": "Margaret McKenzie McIver",
+    "Gender": "Female",
+    "DateOfBirth": "29/Sep/1917",
+    "DateOfDeath": "12/Sep/2015"
+  },
+  "Parents": [
+    {
+      "Id": "i62168745",
+      "Name": "Hector McLean McIver",
+      "Gender": "Male",
+      "DateOfBirth": "17/Aug/1878",
+      "DateOfDeath": "21/Feb/1938",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i88610293",
+      "Name": "Margaret Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "26/May/1884",
+      "DateOfDeath": "5/Apr/1964",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i80366022",
+      "Name": "Elizabeth McIver",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "1914",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i62168745",
+          "i88610293"
+        ]
+      ]
+    },
+    {
+      "Id": "i90830540",
+      "Name": "Roderick McKenzie McIver",
+      "Gender": "Male",
+      "DateOfBirth": "22/Oct/1910",
+      "DateOfDeath": "1999",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i62168745",
+          "i88610293"
+        ]
+      ]
+    },
+    {
+      "Id": "i24380064",
+      "Name": "Margaret McKenzie McIver",
+      "Gender": "Female",
+      "DateOfBirth": "29/Sep/1917",
+      "DateOfDeath": "12/Sep/2015",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i62168745",
+          "i88610293"
+        ]
+      ]
+    },
+    {
+      "Id": "i34334364",
+      "Name": "Hector Spence McIver",
+      "Gender": "Male",
+      "DateOfBirth": "12/Apr/1919",
+      "DateOfDeath": "27/Jan/2008",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i62168745",
+          "i88610293"
+        ]
+      ]
+    },
+    {
+      "Id": "i74287888",
+      "Name": "Thomas Clephan McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1924",
+      "DateOfDeath": "2019",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i62168745",
+          "i88610293"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i3963708",
+      "Name": "Alastair McDonald Gibson",
+      "Gender": "Male",
+      "DateOfBirth": "19/Jan/1914",
+      "DateOfDeath": "1978",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1/Sep/1939",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i11866224",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    },
+    {
+      "Id": "i86606770",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i3963708",
+        "i24380064"
+      ]
+    }
+  ]
+}

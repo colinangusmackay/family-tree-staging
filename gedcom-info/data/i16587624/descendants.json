@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i16587624",
+  "Name": "Lucy Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "23/Sep/1889",
+  "DateOfDeath": "15/May/1970",
+  "Children": [
+    {
+      "Id": "i52754046",
+      "Name": "Kenneth Mackay",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "28/Mar/1920",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

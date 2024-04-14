@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i96590245",
+    "Name": "Agnes Watson Thomson",
+    "Gender": "Female",
+    "DateOfBirth": "about 1892",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i28828844",
+      "Name": "Thomas Thomson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i86375908",
+      "Name": "Elizabeth Alexander",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1911",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i96590245",
+      "Name": "Agnes Watson Thomson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1892",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i28828844",
+          "i86375908"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i76741424",
+      "Name": "Edward O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "4/Jan/1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "30/Nov/1911",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i12568152",
+      "Name": "Thomas O'Malley",
+      "Gender": "Male",
+      "DateOfBirth": "4/Sep/1913",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i76741424",
+        "i96590245"
+      ]
+    }
+  ]
+}

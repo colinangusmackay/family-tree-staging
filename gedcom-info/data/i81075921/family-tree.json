@@ -1,0 +1,109 @@
+﻿{
+  "Subject": {
+    "Id": "i81075921",
+    "Name": "Jean Grant",
+    "Gender": "Female",
+    "DateOfBirth": "30/Jun/1902",
+    "DateOfDeath": "31/Oct/1971"
+  },
+  "Parents": [
+    {
+      "Id": "i31066628",
+      "Name": "Hugh Grant",
+      "Gender": "Male",
+      "DateOfBirth": "26/Feb/1863",
+      "DateOfDeath": "10/Sep/1944",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i503334",
+      "Name": "Annie Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1865",
+      "DateOfDeath": "1/May/1942",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i15036054",
+      "Name": "Jessie Ann Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1899",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i31066628",
+          "i503334"
+        ]
+      ]
+    },
+    {
+      "Id": "i5052852",
+      "Name": "Catherine Grant",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i31066628",
+          "i503334"
+        ]
+      ]
+    },
+    {
+      "Id": "i81075921",
+      "Name": "Jean Grant",
+      "Gender": "Female",
+      "DateOfBirth": "30/Jun/1902",
+      "DateOfDeath": "31/Oct/1971",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i31066628",
+          "i503334"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i91293396",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "31/Aug/1898",
+      "DateOfDeath": "17/Feb/1966",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "9/Feb/1934",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i35053528",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91293396",
+        "i81075921"
+      ]
+    },
+    {
+      "Id": "i28456848",
+      "Name": "Anna Catherine Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "28/Aug/1937",
+      "DateOfDeath": "1992",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91293396",
+        "i81075921"
+      ]
+    }
+  ]
+}

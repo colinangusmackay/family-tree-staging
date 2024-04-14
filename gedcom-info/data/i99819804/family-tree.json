@@ -1,0 +1,175 @@
+﻿{
+  "Subject": {
+    "Id": "i99819804",
+    "Name": "Mary Elizabeth Wilson",
+    "Gender": "Female",
+    "DateOfBirth": "about 1905",
+    "DateOfDeath": "16/Dec/1971"
+  },
+  "Parents": [
+    {
+      "Id": "i99536158",
+      "Name": "Minnie Lenox",
+      "Gender": "Female",
+      "DateOfBirth": "15/Apr/1867",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i5904501",
+      "Name": "Henry Wilson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i66239156",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    },
+    {
+      "Id": "i81201120",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    },
+    {
+      "Id": "i43820265",
+      "Name": "Ella R Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1900",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    },
+    {
+      "Id": "i26878767",
+      "Name": "Stella K Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1902",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    },
+    {
+      "Id": "i99819804",
+      "Name": "Mary Elizabeth Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1905",
+      "DateOfDeath": "16/Dec/1971",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    },
+    {
+      "Id": "i66883950",
+      "Name": "Frieda Belle Wilson",
+      "Gender": "Female",
+      "DateOfBirth": "10/Jan/1908",
+      "DateOfDeath": "4/Jan/1995",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i5904501",
+          "i99536158"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i21721539",
+      "Name": "Malcolm DeWitt Roberts",
+      "Gender": "Male",
+      "DateOfBirth": "30/Sep/1905",
+      "DateOfDeath": "6/May/1990",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "1927",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i44331192",
+      "Name": "Mary Beth Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "1/Nov/1930",
+      "DateOfDeath": "6/Feb/2014",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i38836920",
+      "Name": "X",
+      "Gender": "Male",
+      "DateOfBirth": "8/Feb/1936",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i40000604",
+      "Name": "Sandra Jane Roberts",
+      "Gender": "Female",
+      "DateOfBirth": "10/Nov/1937",
+      "DateOfDeath": "26/Nov/2019",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    },
+    {
+      "Id": "i21326189",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "about 1944",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i21721539",
+        "i99819804"
+      ]
+    }
+  ]
+}

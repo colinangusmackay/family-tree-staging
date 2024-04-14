@@ -1,0 +1,47 @@
+﻿{
+  "Id": "i55409960",
+  "Name": "Adam Cumming",
+  "Gender": "Male",
+  "Relationship": "Self",
+  "DateOfBirth": "2/Jul/1841",
+  "DateOfDeath": "18/Jan/1926",
+  "Children": [
+    {
+      "Id": "i35928164",
+      "Name": "Elizabeth Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "about 1882",
+      "DateOfDeath": "",
+      "Children": []
+    },
+    {
+      "Id": "i89853996",
+      "Name": "Donald Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "17/Dec/1889",
+      "DateOfDeath": "",
+      "Children": [
+        {
+          "Id": "i14926290",
+          "Name": "Anne Cumming",
+          "Gender": "Female",
+          "Relationship": "daughter",
+          "DateOfBirth": "23/Feb/1920",
+          "DateOfDeath": "14/Nov/2002",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": "i7323242",
+      "Name": "John Cumming",
+      "Gender": "Male",
+      "Relationship": "son",
+      "DateOfBirth": "10/Oct/1895",
+      "DateOfDeath": "",
+      "Children": []
+    }
+  ]
+}

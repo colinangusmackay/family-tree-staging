@@ -1,0 +1,19 @@
+﻿{
+  "Id": "i70248352",
+  "Name": "Jeanie McLeod",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1897",
+  "DateOfDeath": "",
+  "Parents": [
+    {
+      "Id": "i25554110",
+      "Name": "Margaret McLeod",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "Subject": {
+    "Id": "i2617088",
+    "Name": "Thomas Mitchell Reid",
+    "Gender": "Male",
+    "DateOfBirth": "14/Jan/1893",
+    "DateOfDeath": "10/May/1974"
+  },
+  "Parents": [
+    {
+      "Id": "i95320597",
+      "Name": "John Reid",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i37924612",
+      "Name": "Agnes Russell",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i2617088",
+      "Name": "Thomas Mitchell Reid",
+      "Gender": "Male",
+      "DateOfBirth": "14/Jan/1893",
+      "DateOfDeath": "10/May/1974",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i37924612",
+          "i95320597"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i84684994",
+      "Name": "Isabella Cumming",
+      "Gender": "Female",
+      "DateOfBirth": "21/Jul/1888",
+      "DateOfDeath": "1/Feb/1986",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "12/Apr/1929",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": []
+}

@@ -1,0 +1,141 @@
+﻿{
+  "Subject": {
+    "Id": "i55148620",
+    "Name": "William Paterson",
+    "Gender": "Male",
+    "DateOfBirth": "about 1823",
+    "DateOfDeath": "26/Apr/1906"
+  },
+  "Parents": [
+    {
+      "Id": "i78511456",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i23268600",
+      "Name": "Margaret MacKintosh",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i55148620",
+      "Name": "William Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1823",
+      "DateOfDeath": "26/Apr/1906",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i23268600",
+          "i78511456"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i28263584",
+      "Name": "Barbara Mackenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1823",
+      "DateOfDeath": "27/Apr/1884",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "7/Aug/1847",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i93188721",
+      "Name": "Margaret Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1848",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1850",
+      "DateOfDeath": "before 1929",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i11400006",
+      "Name": "Ann Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1853",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i54157362",
+      "Name": "John Paterson",
+      "Gender": "Male",
+      "DateOfBirth": "about 1855",
+      "DateOfDeath": "",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i65135072",
+      "Name": "Barbara Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1857",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i992704",
+      "Name": "Jessie Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "11/Oct/1859",
+      "DateOfDeath": "11/Mar/1881",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    },
+    {
+      "Id": "i90589456",
+      "Name": "Williamina Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "10/Jun/1861",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i55148620",
+        "i28263584"
+      ]
+    }
+  ]
+}

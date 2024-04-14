@@ -1,0 +1,105 @@
+﻿{
+  "Subject": {
+    "Id": "i63088441",
+    "Name": "John Ramsay",
+    "Gender": "Male",
+    "DateOfBirth": "about 1852",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i33817858",
+      "Name": "George Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i33882736",
+      "Name": "Jane Grieve",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i63088441",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "about 1852",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i33817858",
+          "i33882736"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i60684755",
+      "Name": "Ann Morgan",
+      "Gender": "Female",
+      "DateOfBirth": "about 1845",
+      "DateOfDeath": "",
+      "RelationToSubject": "partner",
+      "DateOfMarriage": "",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i57916783",
+      "Name": "Agnes Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1873",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
+    {
+      "Id": "i35547078",
+      "Name": "Cattie Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1877",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
+    {
+      "Id": "i54722192",
+      "Name": "Isabella Ramsay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    },
+    {
+      "Id": "i64225415",
+      "Name": "John Ramsay",
+      "Gender": "Male",
+      "DateOfBirth": "21/Feb/1880",
+      "DateOfDeath": "20/Jun/1920",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i63088441",
+        "i60684755"
+      ]
+    }
+  ]
+}

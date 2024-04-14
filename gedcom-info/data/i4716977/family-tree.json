@@ -1,0 +1,69 @@
+﻿{
+  "Subject": {
+    "Id": "i4716977",
+    "Name": "William Andrew Campbell",
+    "Gender": "Male",
+    "DateOfBirth": "2/Jan/1889",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i70442784",
+      "Name": "William Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "",
+      "DateOfDeath": "before 1918",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i58377523",
+      "Name": "Rachel Smith",
+      "Gender": "Female",
+      "DateOfBirth": "11/Nov/1862",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i4716977",
+      "Name": "William Andrew Campbell",
+      "Gender": "Male",
+      "DateOfBirth": "2/Jan/1889",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i58377523",
+          "i70442784"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i54145218",
+      "Name": "Grace McTurk",
+      "Gender": "Female",
+      "DateOfBirth": "20/Dec/1886",
+      "DateOfDeath": "",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "21/Mar/1918",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i40394043",
+      "Name": "Rachel Smith Campbell",
+      "Gender": "Female",
+      "DateOfBirth": "6/Jan/1920",
+      "DateOfDeath": "11/Dec/1998",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i4716977",
+        "i54145218"
+      ]
+    }
+  ]
+}

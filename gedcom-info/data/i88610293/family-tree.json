@@ -1,0 +1,201 @@
+﻿{
+  "Subject": {
+    "Id": "i88610293",
+    "Name": "Margaret Paterson McKenzie",
+    "Gender": "Female",
+    "DateOfBirth": "26/May/1884",
+    "DateOfDeath": "5/Apr/1964"
+  },
+  "Parents": [
+    {
+      "Id": "i24882788",
+      "Name": "Isabella Paterson",
+      "Gender": "Female",
+      "DateOfBirth": "about 1850",
+      "DateOfDeath": "before 1929",
+      "RelationToSubject": "mother"
+    },
+    {
+      "Id": "i76793596",
+      "Name": "Roderick McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1851",
+      "DateOfDeath": "23/Jan/1929",
+      "RelationToSubject": "father"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i80021760",
+      "Name": "Annie McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1874",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i18932462",
+      "Name": "Barbara McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1876",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i51734912",
+      "Name": "William P McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "about 1878",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i25915316",
+      "Name": "Christina McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1880",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i88610293",
+      "Name": "Margaret Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "26/May/1884",
+      "DateOfDeath": "5/Apr/1964",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i2043547",
+      "Name": "Jessie Paterson McKenzie",
+      "Gender": "Female",
+      "DateOfBirth": "about 1888",
+      "DateOfDeath": "",
+      "RelationToSubject": "sister",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    },
+    {
+      "Id": "i99087108",
+      "Name": "Murdoch McKenzie",
+      "Gender": "Male",
+      "DateOfBirth": "1890",
+      "DateOfDeath": "",
+      "RelationToSubject": "brother",
+      "ParentGroupIds": [
+        [
+          "i24882788",
+          "i76793596"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i62168745",
+      "Name": "Hector McLean McIver",
+      "Gender": "Male",
+      "DateOfBirth": "17/Aug/1878",
+      "DateOfDeath": "21/Feb/1938",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "31/Dec/1909",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i80366022",
+      "Name": "Elizabeth McIver",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "1914",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i62168745",
+        "i88610293"
+      ]
+    },
+    {
+      "Id": "i90830540",
+      "Name": "Roderick McKenzie McIver",
+      "Gender": "Male",
+      "DateOfBirth": "22/Oct/1910",
+      "DateOfDeath": "1999",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i62168745",
+        "i88610293"
+      ]
+    },
+    {
+      "Id": "i24380064",
+      "Name": "Margaret McKenzie McIver",
+      "Gender": "Female",
+      "DateOfBirth": "29/Sep/1917",
+      "DateOfDeath": "12/Sep/2015",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i62168745",
+        "i88610293"
+      ]
+    },
+    {
+      "Id": "i34334364",
+      "Name": "Hector Spence McIver",
+      "Gender": "Male",
+      "DateOfBirth": "12/Apr/1919",
+      "DateOfDeath": "27/Jan/2008",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i62168745",
+        "i88610293"
+      ]
+    },
+    {
+      "Id": "i74287888",
+      "Name": "Thomas Clephan McIver",
+      "Gender": "Male",
+      "DateOfBirth": "1924",
+      "DateOfDeath": "2019",
+      "RelationToSubject": "son",
+      "ParentIds": [
+        "i62168745",
+        "i88610293"
+      ]
+    }
+  ]
+}

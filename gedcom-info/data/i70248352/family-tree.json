@@ -1,0 +1,60 @@
+﻿{
+  "Subject": {
+    "Id": "i70248352",
+    "Name": "Jeanie McLeod",
+    "Gender": "Female",
+    "DateOfBirth": "about 1897",
+    "DateOfDeath": ""
+  },
+  "Parents": [
+    {
+      "Id": "i25554110",
+      "Name": "Margaret McLeod",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i70248352",
+      "Name": "Jeanie McLeod",
+      "Gender": "Female",
+      "DateOfBirth": "about 1897",
+      "DateOfDeath": "",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i25554110"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i5211114",
+      "Name": "John Paton",
+      "Gender": "Male",
+      "DateOfBirth": "about 1894",
+      "DateOfDeath": "",
+      "RelationToSubject": "husband",
+      "DateOfMarriage": "8/Jun/1915",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i56209708",
+      "Name": "Margaret McLeod Paton",
+      "Gender": "Female",
+      "DateOfBirth": "14/Mar/1916",
+      "DateOfDeath": "before 2004",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i5211114",
+        "i70248352"
+      ]
+    }
+  ]
+}

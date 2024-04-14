@@ -1,0 +1,81 @@
+﻿{
+  "Subject": {
+    "Id": "i91293396",
+    "Name": "Alexander Fraser",
+    "Gender": "Male",
+    "DateOfBirth": "31/Aug/1898",
+    "DateOfDeath": "17/Feb/1966"
+  },
+  "Parents": [
+    {
+      "Id": "i69725432",
+      "Name": "Thomas Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "12/Aug/1869",
+      "DateOfDeath": "20/Apr/1932",
+      "RelationToSubject": "father"
+    },
+    {
+      "Id": "i33561724",
+      "Name": "Jane Mackay",
+      "Gender": "Female",
+      "DateOfBirth": "about 1872",
+      "DateOfDeath": "after 1934",
+      "RelationToSubject": "mother"
+    }
+  ],
+  "Siblings": [
+    {
+      "Id": "i91293396",
+      "Name": "Alexander Fraser",
+      "Gender": "Male",
+      "DateOfBirth": "31/Aug/1898",
+      "DateOfDeath": "17/Feb/1966",
+      "RelationToSubject": "self",
+      "ParentGroupIds": [
+        [
+          "i33561724",
+          "i69725432"
+        ]
+      ]
+    }
+  ],
+  "Spouses": [
+    {
+      "Id": "i81075921",
+      "Name": "Jean Grant",
+      "Gender": "Female",
+      "DateOfBirth": "30/Jun/1902",
+      "DateOfDeath": "31/Oct/1971",
+      "RelationToSubject": "wife",
+      "DateOfMarriage": "9/Feb/1934",
+      "DateOfDivorce": ""
+    }
+  ],
+  "Children": [
+    {
+      "Id": "i35053528",
+      "Name": "X",
+      "Gender": "Female",
+      "DateOfBirth": "",
+      "DateOfDeath": "",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91293396",
+        "i81075921"
+      ]
+    },
+    {
+      "Id": "i28456848",
+      "Name": "Anna Catherine Fraser",
+      "Gender": "Female",
+      "DateOfBirth": "28/Aug/1937",
+      "DateOfDeath": "1992",
+      "RelationToSubject": "daughter",
+      "ParentIds": [
+        "i91293396",
+        "i81075921"
+      ]
+    }
+  ]
+}

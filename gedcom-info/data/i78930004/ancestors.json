@@ -1,0 +1,28 @@
+﻿{
+  "Id": "i78930004",
+  "Name": "Marion Mackay",
+  "Gender": "Female",
+  "Relationship": "Self",
+  "DateOfBirth": "about 1819",
+  "DateOfDeath": "30/Dec/1909",
+  "Parents": [
+    {
+      "Id": "i3089092",
+      "Name": "Alexander Mackay",
+      "Gender": "Male",
+      "Relationship": "father",
+      "DateOfBirth": "before 1803",
+      "DateOfDeath": "",
+      "Parents": []
+    },
+    {
+      "Id": "i45275253",
+      "Name": "Christina Fraser",
+      "Gender": "Female",
+      "Relationship": "mother",
+      "DateOfBirth": "before 1803",
+      "DateOfDeath": "",
+      "Parents": []
+    }
+  ]
+}
